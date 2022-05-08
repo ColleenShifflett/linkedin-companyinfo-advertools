@@ -1,4 +1,5 @@
-# linkedin-companyinfo-pull
+# linkedin-companyinfo-advertools
+
 Add company info to a LinkedIn campaign company report.
 
 What you'll need: 
