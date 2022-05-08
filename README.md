@@ -1,6 +1,14 @@
 # linkedin-companyinfo-pull
 Add company info to a LinkedIn campaign company report.
 
+What you'll need: 
+
+ - Basic knowledge of Python and advertools. 
+ - A Google Cloud developer account and search, drive, and sheets APIs
+ - If you're just getting started, find more on the above here: https://serpstat.com/blog/retrieve-google-search-results-into-a-dataframe-using-python/
+ - A Google Sheet Template: https://docs.google.com/spreadsheets/d/1OYa9b7I14y_gxXwfQB3XXKzKQzF_6jn59-j4w2k-gfU/edit?usp=sharing
+ - Access to a LinkedIn Ads campaign, or a list of companies you want to capture LinkedIn descriptions of. 
+
 From my original LinkedIn post:
 
 🔥🔥How to use Advertools to pull more information about companies from your LinkedIn campaign company reports into Google Sheets to check for necessary exclusions🔥🔥
